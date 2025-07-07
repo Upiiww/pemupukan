@@ -55,10 +55,7 @@ return [
     |
     */
 
-    'assets_path' =>  [
-    'build/assets/app-NS0_ynA5.css',
-    'build/assets/app-T1DpEqax.js',
-],
+    'assets_path' =>  'build/assets',
 
     /*
     |--------------------------------------------------------------------------
